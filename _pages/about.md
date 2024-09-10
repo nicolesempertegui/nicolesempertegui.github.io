@@ -39,7 +39,6 @@ I have also participated in semester-long research visits at the <a href="https:
 
 <p>
 I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Federico Ardila's axioms</a>:
-here</a>, to be inspiring and empowering:
 <ul style="list-style-type:none;">
 <li>
 	<i>Axiom 1</i>. 
