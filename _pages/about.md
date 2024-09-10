@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 J. Carlos Martinez Mori (he/him) </p>
+    <p>J. Carlos Martinez Mori (he/him) </p>
+    <p>jcmm (arroba) gatech (punto) edu</p>
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
