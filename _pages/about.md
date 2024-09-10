@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a <a href="https://schmidtsciencefellows.org"/>Schmidt Science Fellow</a> and a <a href="https://ppfp.coe.gatech.edu/">President's Postdoctoral Fellow</a> with the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering</a> at the Georgia Institute of Technology.
+I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and a <a href="https://ppfp.coe.gatech.edu/">President's Postdoctoral Fellow</a> with the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering</a> at the Georgia Institute of Technology.
