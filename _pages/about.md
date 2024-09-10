@@ -33,5 +33,28 @@ My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel Work</
 </p>
 
 <p>
-Prior to joining Georgia Tech, I was a postdoctoral fellow at the <a href="https://www.slmath.org/">Simons Laufer Mathematical Sciences Institute</a> (SLMath, formerly MSRI).
+Prior to joining Georgia Tech, I was a Postdoctoral Fellow at the <a href="https://www.msri.org/programs/353">SLMath/a> (formerly MSRI).
+I have also participated in semester-long research visits at the <a href="https://icerm.brown.edu/programs/sp-s23/">ICERM</a> and the <a href="https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/">IPAM</a>, research internships at Amazon.com and Bosch North America, and REU mentoring at <a href="https://www.msri.org/msri_ups/967">MSRI</a> and <a href="https://icerm.brown.edu/summerug/2022/">ICERM</a>.
+</p>
+
+<p>
+I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Federico Ardila's axioms</a>:
+here</a>, to be inspiring and empowering:
+<ul style="list-style-type:none;">
+<li>
+	<i>Axiom 1</i>. 
+	Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+</li>
+<li>
+	<i>Axiom 2</i>. 
+	Everyone can have joyful, meaningful, and empowering mathematical experiences. 
+</li>
+<li>
+	<i>Axiom 3</i>. 
+	Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs. 
+</li>
+<li>
+	<i>Axiom 4</i>. Every student deserves to be treated with dignity and respect. 
+</li>
+</ul>
 </p>
