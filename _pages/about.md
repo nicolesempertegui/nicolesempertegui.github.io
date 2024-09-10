@@ -29,12 +29,12 @@ I earned my PhD in Applied Mathematics from the <a href="https://www.cam.cornell
 My PhD advisor was <a href="https://cee.cornell.edu/samitha/">Samitha Samaranayake</a>.
 My other committee members were <a href="https://www.pamelaeharris.com/">Pamela E. Harris</a>, <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a>, and <a href="https://www.cs.cornell.edu/~rdk/">Bobby Kleinberg</a>.
 Prior to that, I earned my <a href="https://cee.illinois.edu/">BSc in Civil Engineering</a> and <a href="https://cs.illinois.edu/">minor in Computer Science</a> from the University of Illinois at Urbana-Champaign (2017). 
-My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel Work</a>. 
+My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel B. Work</a>. 
 </p>
 
 <p>
 Prior to joining Georgia Tech, I was a Postdoctoral Fellow at the <a href="https://www.msri.org/programs/353">SLMath/a> (formerly MSRI).
-I have also participated in semester-long research visits at the <a href="https://icerm.brown.edu/programs/sp-s23/">ICERM</a> and the <a href="https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/">IPAM</a>, research internships at Amazon.com and Bosch North America, and REU mentoring at <a href="https://www.msri.org/msri_ups/967">MSRI</a> and <a href="https://icerm.brown.edu/summerug/2022/">ICERM</a>.
+I have also participated in semester-long research visits at <a href="https://icerm.brown.edu/programs/sp-s23/">ICERM</a> and <a href="https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/">IPAM</a>, research internships at Amazon.com and Bosch North America, and REU mentoring at <a href="https://www.msri.org/msri_ups/967">MSRI</a> and <a href="https://icerm.brown.edu/summerug/2022/">ICERM</a>.
 </p>
 
 <p>
