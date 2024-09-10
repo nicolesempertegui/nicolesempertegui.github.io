@@ -29,7 +29,7 @@ I earned my PhD in Applied Mathematics from the <a href="https://www.cam.cornell
 My PhD advisor was <a href="https://cee.cornell.edu/samitha/">Samitha Samaranayake</a>.
 My other committee members were <a href="https://www.pamelaeharris.com/">Pamela E. Harris</a>, <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a>, and <a href="https://www.cs.cornell.edu/~rdk/">Bobby Kleinberg</a>.
 Prior to that, I earned my <a href="https://cee.illinois.edu/">BSc in Civil Engineering</a> and <a href="https://cs.illinois.edu/">minor in Computer Science</a> from the University of Illinois at Urbana-Champaign (2017). 
-My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel B. Work</a>. 
+My undergraduate research advisor was <a href="https://lab-work.github.io/">Daniel B. Work</a>. 
 </p>
 
 <p>
