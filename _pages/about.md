@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>J. Carlos Martinez Mori (he/him) </p>
+    <p>J. Carlos Martinez Mori</p>
+    <p>(he/him)</p>
     <p>jcmm (arroba) gatech (punto) edu</p>
 
 
@@ -21,7 +22,6 @@ social: false # includes social icons at the bottom of the page
 <p>
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and a <a href="https://ppfp.coe.gatech.edu/">President's Postdoctoral Fellow</a> with the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering</a> at the Georgia Institute of Technology.
 My postdoctoral mentor is <a href="https://sites.gatech.edu/alejandro-toriello/">Alejandro Toriello</a>.
-Prior to joining Georgia Tech, I was a postdoctoral fellow at the <a href="https://www.slmath.org/">Simons Laufer Mathematical Sciences Institute</a> (SLMath, formerly MSRI).
 </p>
 
 <p>
@@ -32,3 +32,6 @@ Prior to that, I earned my <a href="https://cee.illinois.edu/">BSc in Civil Engi
 My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel Work</a>. 
 </p>
 
+<p>
+Prior to joining Georgia Tech, I was a postdoctoral fellow at the <a href="https://www.slmath.org/">Simons Laufer Mathematical Sciences Institute</a> (SLMath, formerly MSRI).
+</p>
