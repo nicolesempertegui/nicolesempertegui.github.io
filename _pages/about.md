@@ -57,3 +57,10 @@ I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610
 </li>
 </ul>
 </p>
+
+<h3>About My Last Name</h3>
+<p>
+	In formal settings (e.g., legal documents, publications), it is Martínez Mori; two words separated by a space, not a hyphen. 
+	In informal settings, it is just Martínez. 
+	Note this Wikipedia article on <a href="https://en.wikipedia.org/wiki/Naming_customs_of_Hispanic_America">naming customs of Hispanic America</a>.
+</p>
