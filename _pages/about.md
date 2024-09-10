@@ -34,7 +34,7 @@ My undergraduate advisor was <a href="https://lab-work.github.io/">Daniel B. Wor
 
 <p>
 Prior to joining Georgia Tech, I was a Postdoctoral Fellow at <a href="https://www.msri.org/programs/353">SLMath</a> (formerly MSRI).
-I have also participated in semester-long research visits at <a href="https://icerm.brown.edu/programs/sp-s23/">ICERM</a> and <a href="https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/">IPAM</a>, research internships at Amazon.com and Bosch North America, and REU mentoring at <a href="https://www.msri.org/msri_ups/967">MSRI</a> and <a href="https://icerm.brown.edu/summerug/2022/">ICERM</a>.
+I have also participated in semester-long research visits at <a href="https://icerm.brown.edu/programs/sp-s23/">ICERM</a> and <a href="https://www.ipam.ucla.edu/programs/long-programs/mathematical-challenges-and-opportunities-for-autonomous-vehicles/">IPAM</a>, research internships at Amazon.com and Bosch North America, and REU program mentoring at <a href="https://www.msri.org/msri_ups/967">MSRI</a> and <a href="https://icerm.brown.edu/summerug/2022/">ICERM</a>.
 </p>
 
 <p>
