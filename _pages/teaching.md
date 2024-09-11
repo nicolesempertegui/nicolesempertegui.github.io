@@ -5,16 +5,9 @@ title: teaching and mentoring
 description:
 nav: true
 nav_order: 6
+display_categories: [Georgia Tech, Cornell University]
 ---
 
-title: Teaching
-permalink: /teaching/
-description: Listed below are my past and current teaching engagements.
-nav: true
-nav_order: 4
-display_categories: [Georgia Tech, Cornell University]
-horizontal: true
----
 
 <!-- pages/projects.md -->
 
@@ -67,10 +60,3 @@ horizontal: true
 {%- endif -%}
 
 </div>
-
-
-
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
