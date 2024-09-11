@@ -18,3 +18,10 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<div class="manuscripts">
+
+{% bibliography -f preprints %}
+
+</div>
+
