@@ -5,7 +5,7 @@ title: teaching
 description:
 nav: true
 nav_order: 6
-display_categories: [Georgia Tech, Cornell University, University of Illinois at Urbana-Champaign]
+display_categories: [Georgia Tech, Cornell, Illinois]
 ---
 
 <!-- pages/teaching.md -->
