@@ -58,7 +58,7 @@ I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610
 </ul>
 </p>
 
-<h3>About My Last Name</h3>
+<h4>about my last name</h4>
 <p>
 	In formal settings (e.g., legal documents, publications), it is Martínez Mori; two words separated by a space, not a hyphen. 
 	In informal settings, it is just Martínez. 
