@@ -59,7 +59,7 @@ I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610
 </p>
 
 <p>
-Here is my <a href="https://icerm.brown.edu/summerug/2022/">CV</a>
+Here is my <a href="{{ cv.pdf | prepend: 'assets/pdf/' | relative_url}}">CV</a>.
 </p>
 
 <h4>about my last name</h4>
