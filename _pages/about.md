@@ -17,7 +17,6 @@ profile:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-cv_pdf: jcmm_cv.pdf
 ---
 
 <p>
@@ -57,6 +56,10 @@ I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610
 	<i>Axiom 4</i>. Every student deserves to be treated with dignity and respect. 
 </li>
 </ul>
+</p>
+
+<p>
+Here is my <a href="https://icerm.brown.edu/summerug/2022/">CV</a>
 </p>
 
 <h4>about my last name</h4>
