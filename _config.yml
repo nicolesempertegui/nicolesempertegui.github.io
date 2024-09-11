@@ -196,7 +196,7 @@ collections:
     permalink: /:collection/:title/
   teaching:
     output: true
-    permalink: /teaching/:path/
+    permalink: /:collection/:title/
 
 announcements:
   enabled: false
