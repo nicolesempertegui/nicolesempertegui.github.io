@@ -25,7 +25,7 @@ My postdoctoral mentor is <a href="https://sites.gatech.edu/alejandro-toriello/"
 </p>
 
 <p>
-Here is my <a href="jcmartinezmori.github.io/assets/pdf/cv.pdf' | relative_url}}">CV</a>.
+Here is my <a href="https://github.com/jcmartinezmori/jcmartinezmori.github.io/blob/master/assets/pdf/cv.pdf">CV</a>.
 </p>
 
 <p>
