@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching_and_mentoring/
+permalink: /teaching-and-mentoring/
 title: teaching and mentoring
 description:
 nav: true
