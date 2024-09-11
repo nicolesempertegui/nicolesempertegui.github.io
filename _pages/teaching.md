@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching-and-mentoring/
-title: teaching and mentoring
+permalink: /teaching/
+title: teaching
 description:
 nav: true
 nav_order: 6
