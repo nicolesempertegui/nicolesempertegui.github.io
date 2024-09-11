@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching and mentoring
 description:
 nav: true
 nav_order: 6
 display_categories: [Georgia Institute of Technology, Cornell University, University of Illinois at Urbana-Champaign]
+horizontal = true
 ---
 
 <!-- pages/teaching.md -->
