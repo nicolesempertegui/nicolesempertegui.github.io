@@ -13,12 +13,14 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<h4>publications/h4>
 <div class="publications">
 
 {% bibliography -f papers %}
 
 </div>
 
+<h4>manuscripts/h4>
 <div class="manuscripts">
 
 {% bibliography -f manuscripts %}
