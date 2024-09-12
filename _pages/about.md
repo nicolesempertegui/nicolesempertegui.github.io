@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<h4>about</h4>
-
 <p>
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and a <a href="https://ppfp.coe.gatech.edu/">President's Postdoctoral Fellow</a> with the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering</a> at the Georgia Institute of Technology.
 My postdoctoral mentor is <a href="https://sites.gatech.edu/alejandro-toriello/">Alejandro Toriello</a>.
