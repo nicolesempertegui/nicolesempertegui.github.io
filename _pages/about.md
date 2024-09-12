@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>J. Carlos Martinez Mori</p>
+    <p>J. Carlos Martínez Mori</p>
     <p>(he/him)</p>
     <p>jcmm (arroba) gatech (punto) edu</p>
 

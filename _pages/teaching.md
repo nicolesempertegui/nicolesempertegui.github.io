@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [Georgia Institute of Technology, ICERM, MSRI, Cornell University, University of Illinois at Urbana-Champaign]
+horizontal: true
 ---
 
 <!-- pages/teaching.md -->
