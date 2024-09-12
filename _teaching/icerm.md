@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summer@ICERM 2022\: Computational Combinatorics
+title: Computational Combinatorics (Summer@ICERM 2022)
 description: REU Teaching Assistant (Summer 2022)
 img: 
 importance: 1
