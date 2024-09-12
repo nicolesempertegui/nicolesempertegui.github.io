@@ -42,7 +42,7 @@ Outside of work, I am a coffee enthusiast and I practice taekwondo.
 </p>
 
 <p>
-Are you wondering <a href"https://www.ams.org/journals/notices/202408/rnoti-p1062.pdf">what is a parking function?</a>
+Are you wondering <a href="https://www.ams.org/journals/notices/202408/rnoti-p1062.pdf">what is a parking function?</a>
 </p>
 
 <h4>axioms</h4>
