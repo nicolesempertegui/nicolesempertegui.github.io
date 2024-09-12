@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inclusive STEM Teaching Fellows Program (Spring 2024)
-description: Fellow
+title: Inclusive STEM Teaching Fellows Program
+description: Fellow (Spring 2024)
 img: 
 importance: 2
 category: Georgia Institute of Technology

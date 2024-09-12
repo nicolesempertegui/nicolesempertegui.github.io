@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MSRI-UP 2021: Parking Functions: Choose your Own Adventure
-description: REU Teaching Assistant 
+description: REU Teaching Assistant (Summer 2021)
 img: 
 importance: 1
 category: MSRI
