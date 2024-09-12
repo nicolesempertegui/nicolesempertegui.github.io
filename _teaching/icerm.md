@@ -12,7 +12,7 @@ category: ICERM
 Activities:
 <ul style="list-style-type:disc;">
 <li>
-	Training program on inclusive teaching practices.
+	Summer <a href="https://icerm.brown.edu/summerug/2022/">REU program</a> in algebraic combinatorics.
 </li>
 </ul>
 </p>

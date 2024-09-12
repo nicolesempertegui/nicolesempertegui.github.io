@@ -12,7 +12,7 @@ category: MSRI
 Activities:
 <ul style="list-style-type:disc;">
 <li>
-	Training program on inclusive teaching practices.
+	Summer <a href="https://www.slmath.org/workshops/967">REU program</a> in algebraic combinatorics.
 </li>
 </ul>
 </p>
