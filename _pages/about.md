@@ -25,6 +25,11 @@ My postdoctoral mentor is <a href="https://sites.gatech.edu/alejandro-toriello/"
 </p>
 
 <p>
+I am interested in discrete optimization, game theory, algebraic combinatorics, and real-world applications.
+</p>
+
+
+<p>
 I earned my PhD in Applied Mathematics from the <a href="https://www.cam.cornell.edu">Center for Applied Mathematics</a> at Cornell University (2023).
 My PhD advisor was <a href="https://cee.cornell.edu/samitha/">Samitha Samaranayake</a>.
 My other committee members were <a href="https://www.pamelaeharris.com/">Pamela E. Harris</a>, <a href="https://people.orie.cornell.edu/shmoys/">David Shmoys</a>, and <a href="https://www.cs.cornell.edu/~rdk/">Bobby Kleinberg</a>.
