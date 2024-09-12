@@ -41,6 +41,10 @@ I have also participated in semester-long research visits at <a href="https://ic
 Outside of work, I am a coffee enthusiast and I practice taekwondo.
 </p>
 
+<p>
+Are you wondering <a href"https://www.ams.org/journals/notices/202408/rnoti-p1062.pdf">what is a parking function?</a>
+</p>
+
 <h4>axioms</h4>
 <p>
 I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Federico Ardila's axioms</a>:
