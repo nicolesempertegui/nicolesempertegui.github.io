@@ -19,6 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<h4>about</h4>
+
 <p>
 I am a <a href="https://schmidtsciencefellows.org/">Schmidt Science Fellow</a> and a <a href="https://ppfp.coe.gatech.edu/">President's Postdoctoral Fellow</a> with the <a href='https://www.isye.gatech.edu/'>H. Milton Stewart School of Industrial and Systems Engineering</a> at the Georgia Institute of Technology.
 My postdoctoral mentor is <a href="https://sites.gatech.edu/alejandro-toriello/">Alejandro Toriello</a>.
@@ -59,7 +61,7 @@ I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610
 </ul>
 </p>
 
-<h4>about my last name</h4>
+<h4>my last name</h4>
 <p>
 	In formal settings (e.g., legal documents, publications), it is Martínez Mori; two words separated by a space, not a hyphen. 
 	In informal settings, it is just Martínez. 
