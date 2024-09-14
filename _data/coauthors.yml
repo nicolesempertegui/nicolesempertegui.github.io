@@ -17,16 +17,16 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"kretschmann":
-  - firstname: ["jan"]
+"Kretschmann":
+  - firstname: ["Jan"]
     url: https://jankretschmann.com/
 
 "work":
   - firstname: ["daniel"]
     url: https://lab-work.github.io/
 
-"samaranayake":
-  - firstname: ["samitha"]
+"Samaranayake":
+  - firstname: ["Samitha"]
     url: https://cee.cornell.edu/samitha/
 
 "Harris":
