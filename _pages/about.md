@@ -49,6 +49,10 @@ Outside of work, I am a coffee enthusiast and I practice taekwondo.
 Are you wondering <a href="https://www.ams.org/journals/notices/202408/rnoti-p1062.pdf">what is a parking function?</a>
 </p>
 
+<p>
+Are you wondering <a href="https://arxiv.org/abs/2409.12107">who's the GOAT?</a>
+</p>
+
 <h4>axioms</h4>
 <p>
 I subscribe to <a href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Federico Ardila's axioms</a>:
