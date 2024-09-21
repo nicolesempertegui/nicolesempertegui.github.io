@@ -46,6 +46,10 @@ Outside of work, I am a coffee enthusiast and I practice taekwondo.
 </p>
 
 <p>
+I was born and raised in <a href="https://en.wikipedia.org/wiki/Guayaquil">Guayaquil, Ecuador</a>.
+</p>
+
+<p>
 Are you wondering <a href="https://www.ams.org/journals/notices/202408/rnoti-p1062.pdf">what is a parking function?</a>
 </p>
 
