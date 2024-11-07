@@ -29,5 +29,5 @@ Prior to joining Cornell, I earned my B.S. in <a href="https://che.eng.ua.edu">C
 
 
 <p>
-I was born and raised in <a href="https://en.wikipedia.org/wiki/Guayaquil">Guayaquil, Ecuador</a>. Outside of work, I enjoy watching Netflix, drinking coffee and trying out new restaurants. 
+I was born and raised in <a href="https://en.wikipedia.org/wiki/Guayaquil">Guayaquil, Ecuador</a>. Outside of work, I enjoy watching Netflix, drinking coffee and traveling.  
 </p>
