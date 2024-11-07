@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: most entries follow alphabetical authorship. preprints at bottom of page.
+description:
 nav: true
 nav_order: 2
 ---
