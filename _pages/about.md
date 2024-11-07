@@ -25,7 +25,7 @@ I am a PhD Candidate in the <a href='https://www.bme.cornell.edu/bme/'>Meinig Sc
 
 <p>
 	
-Prior to joining Cornell, I earned my B.S. in <a href="https://che.eng.ua.edu">Chemical Engineering</a> with a minor in Mathematics from The University of Alabama (2019). My undergraduate research advisor was <a href="https://raolab.ua.edu/">Shreyas Rao</a>. 
+Prior to joining Cornell, I earned my B.S. in <a href="https://che.eng.ua.edu">Chemical Engineering</a> with a minor in Mathematics from The University of Alabama (2019). My undergraduate research advisor was <a href="https://raolab.ua.edu/">Shreyas Rao</a>. My undergraduate research focused on developing and characterizing biomaterial scaffolds.  
 
 
 <p>
